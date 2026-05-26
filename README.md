@@ -11,23 +11,23 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Downloads-50K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="50K+ Downloads on Google Play" />
+  <img src="https://img.shields.io/badge/Downloads-500K%2B-blue?style=for-the-badge&logo=google-play&color=4CAF50" alt="500K+ Downloads on Google Play" />
 </p>
 
 This is an Android application that I developed and built completely from scratch during my time at **Zeesoft Tech**. 
 
-The app operates as a powerful speech-to-text voice dictator and text-to-speech audio reader. It catches the user's voice and converts it instantly into text, allowing users to transcribe long audio conversations, dictate professional notes, and read written text aloud in a wide variety of global languages.
+The app works as a powerful voice dictator and text reader. It instantly catches the user's voice and converts it into text, making it easy to transcribe long audio conversations, dictate notes, and read written text aloud in many global languages.
 
-With **over 50,000+ active downloads** on the Google Play Store, this app helps users chat, write, and take notes faster and more efficiently using just their voice.
+With **over 500,000+ active downloads** on the Google Play Store, this app helps users write, chat, and take notes faster using only their voice.
 
 ## 👨‍💻 My Role & Contributions
 
 As the **Lead Android Developer**, I solely designed, architected, and developed the entire application from the ground up. My key technical contributions included:
 
-* **☕ to 🎯 Java-to-Kotlin Migration:** Re-engineered the entire legacy codebase by migrating it completely from Java to **Kotlin**. I optimized memory usage, improved execution speeds, and refactored the app to follow idiomatic Kotlin design patterns.
-* **🏗️ Ground-up Architecture:** Designed a highly decoupled app architecture from scratch, ensuring clean code separation between the speech recognition services, SQLite local notes database, and media players.
-* **🎨 Modern UI/UX Redesign:** Recreated the entire user interface using modern design guidelines, focusing on a clean Material 3 look, fluid transition animations, and highly readable step-by-step layout components.
-* **🎙️ Voice Recognition Pipeline:** Programmed and optimized the continuous speech-to-text voice dictation engine, ensuring high-accuracy word detection across various regional accents.
+* **☕ to 🎯 Java-to-Kotlin Migration:** Migrated the entire app codebase from Java to **Kotlin**. This process optimized memory usage, improved performance, and ensured clean, modern code.
+* **🏗️ App Architecture:** Designed the complete app structure from scratch to ensure a clean separation between voice recognition services, media players, and the local database.
+* **🎨 UI/UX Redesign:** Built the user interface from scratch using modern **Material 3** guidelines to create a clean, friendly, and responsive design.
+* **🎙️ Voice Recognition Engine:** Programmed the continuous speech-to-text engine to ensure fast and highly accurate word detection across various regional accents.
 
 ## 🔒 Code Sharing & Intellectual Property Notice
 
@@ -38,23 +38,23 @@ This repository is created solely to showcase:
 * The features and user workflows.
 * The migration from Java to Kotlin and ground-up project architecture.
 
-## 🚀 Key Features I Re-engineered
+## 🚀 Key Features
 
 ### 🎙️ Continuous Speech-to-Text (Voice Typing)
-* **Real-time Transcription:** Speak naturally and see words convert instantly into text without any typing lag.
-* **Long Audio Conversations:** Built-in support to record and transcribe long meetings, conversations, or dictations seamlessly.
+* **Real-time Transcription:** Speak naturally and see words convert instantly into text without typing.
+* **Long Conversations:** Record and convert long audio conversations or meetings into notes seamlessly.
 
 ### 🔊 Text-to-Speech (Audio Reader)
-* **Natural Audio Reader:** Convert typed notes or pasted text into natural spoken voice notes with high-fidelity audio playback.
+* **Text Reader:** Convert written text or pasted notes into natural spoken voice notes with high-quality playback.
 
 ### 📝 Editable Voice Notes Hub
-* **Local Archiver:** Saved transcriptions are stored directly as editable local Voice Notes that users can easily update, search, and manage later.
+* **Notes Organizer:** Transcribed text is automatically saved as editable local Voice Notes that users can easily update or search later.
 
-### 🌍 All-Language Voice Dictation
-* Built-in support for dozens of global languages and regional dialects (English US/UK/India, Arabic UAE/Saudi/Egypt, Spanish, French, German, Urdu, Hindi, Chinese, etc.).
+### 🌍 All-Language Support
+* Dictate and convert audio to text in dozens of global languages (English, Arabic, Spanish, French, German, Urdu, Hindi, Chinese, etc.).
 
-### 📲 Smart Sharing & Export
-* Integrated quick-sharing shortcuts allowing users to share transcribed notes instantly via WhatsApp, Facebook, Twitter, Viber, email, and messaging platforms.
+### 📲 Easy Sharing
+* Share transcribed notes instantly with friends and contacts via WhatsApp, Facebook, email, and other messaging apps.
 
 ## 📱 App Screenshots
 
@@ -87,4 +87,4 @@ Here is a look at the final speech recognition interface, voice notes organizer,
 ## 🏢 Project Details
 * **Role:** Lead Developer (Java to Kotlin Migration & Full-Stack Development)
 * **Company:** Zeesoft Tech
-* **Availability:** Available on the Google Play Store (**50K+ Downloads**), [**Download Now**](https://play.google.com/store/apps/details?id=com.speechtotext.converter.app&hl=en)
+* **Availability:** Available on the Google Play Store (**500K+ Downloads**), [**Download Now**](https://play.google.com/store/apps/details?id=com.speechtotext.converter.app&hl=en)
